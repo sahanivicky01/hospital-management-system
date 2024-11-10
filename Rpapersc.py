@@ -18,6 +18,7 @@ choices are :
   3).Scissor""")
     choices = int(input("Enter your choice(1-3) : "))
     print()
+    #Test comment
     if choices == 1:
         usr_choice = "Rock"
     elif choices == 2:
